@@ -88,6 +88,14 @@ Add detailed information for this case.
 
 ![](img/image16.png)
 
+Please note that when selecting information from a long list (picklist fields), a text field may be available to search for specific values, depending on your system's configuration.
+
+![](img/image20.png)
+
+On some devices, the keyboard will automatically show up, if it’s not needed, please tap the “Back” button on your device to hide the keyboard.
+
+### Adding Photos
+
 To add a photo to the case, select the camera button.
 
 ![](img/image17.png)
@@ -100,11 +108,21 @@ To add another photo to the case, select the '+' button next to your existing pi
 
 ![](img/image19.png)
 
-Please note that when selecting information from a long list (picklist fields), a text field may be available to search for specific values, depending on your system's configuration.
+### Adding Audio
 
-![](img/image20.png)
+To add an audio clip to the case, tap the microphone button at the bottom of the short form, or on the "Photos and Audio" form while using the "Full Form."
 
-On some devices, the keyboard will automatically show up, if it’s not needed, please tap the “Back” button on your device to hide the keyboard.
+![](img/image62.png)
+
+An audio recording interface will appear, and any sound will be recorded. To stop recording, hit the square stop button.
+
+![](img/image63.png)
+
+Once you have finished recording, the microphone will turn into a speaker button. Tap this button to hear the audio you just recorded. Tap the square stop button to stop listening. You can delete your audio clip by tapping the trashcan icon next to your audio clip.
+
+![](img/image64.png)
+
+![](img/image65.png)
 
 ## View Case
 

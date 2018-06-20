@@ -16,6 +16,10 @@
 
     *  [*Create Case*](RapidRegGuide.md#create-case)
 
+        *  [*Adding Photos*](RapidRegGuide.md#adding-photos)
+
+        *  [*Adding Audio*](RapidRegGuide.md#adding-audio)
+
     *  [*View Case*](RapidRegGuide.md#view-case)
 
     *  [*Edit Case*](RapidRegGuide.md#edit-case)
