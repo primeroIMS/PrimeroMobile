@@ -1,0 +1,27 @@
+{
+    "title" : "RapidReg Users Guide",
+    "github" : false,
+    "plugins" : [ "-mathjax", "-mixpanel","-search", "edit-link", "downloadpdf"],
+    "pluginsConfig": {
+            "edit-link": {
+                "base": "https://github.com/primeroIMS/PrimeroCPIMSUserGuide/edit/master",
+                "label": "Edit This Page"
+            },
+            "downloadpdf": {
+                 "base": "https://www.gitbook.com/download/pdf/book/primero/primero-child-protection-ims-user-guide",
+                 "label": "Download PDF",
+                 "multilingual": false
+            }
+    },
+    "links" : {
+      "sidebar": {},
+      "sharing" : {
+        "google" : null,
+        "twitter" : null,
+        "facebook" : null
+      }
+    }
+}
+
+
+
