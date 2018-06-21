@@ -34,6 +34,8 @@
 
     *  [*Search Cases*](RapidRegGuide.md#search-cases)
 
+    *  [*Search Other Users' Cases on Web*](RapidRegGuide.md#search-other-users-cases-on-web)
+
     *  [*Sort Cases*](RapidRegGuide.md#sort-cases)
 
 *  [*Incidents*](RapidRegGuide.md#incidents)

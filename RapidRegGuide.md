@@ -223,6 +223,48 @@ Tap "Done," and search results will appear. To edit your search parameters, tap 
 
 ![](img/image38.png)
 
+## Search Other Users' Cases on Web
+
+During periods when you have internet connectivity, you may wish to search for existing cases belonging to other users on the server. Your ability to perform this action will depend on your user account's configuration. To perform an online search from the cases list, tap the globe icon at the top right of the screen.
+
+![](img/image7.png)
+
+Here, you will be prompted to enter the ID you are searching for. This ID can be any searchable ID field, such as a National ID or Other Agency ID. When you are ready to search, tap "Done."
+
+![](img/image66.png)
+
+![](img/image67.png)
+
+If there are results, you will see a notification asking you to login to the web app. You will then see the web app login page. Login here the same way you would on the web app.
+
+![](img/image68.png)
+
+![](img/image69.png)
+
+![](img/image70.png)
+
+![](img/image71.png)
+
+Once you have logged in, you will see your search results. You can click on the "View" button to see some details of the case. To leave the view modal, click the small 'x' button at the top of the modal.
+
+![](img/image72.png)
+
+![](img/image73.png)
+
+You can also see more details of a case by tapping the small '+' to the left of it.
+
+![](img/image74.png)
+
+To add an incident or service to one of the results in the list, select the check box next to the result and then tap the "Add Incident" or "Add Service Provision" button at the top of the screen. Fill out the forms that appear and save the information you entered just as you would on the web app. For more information on how to add incidents or services to cases as part of a search, please see the **Primero CPIMS User Guide**.
+
+![](img/image75.png)
+
+If, after entering your search query, there are no results, you will see a notification telling you so. If you would like to return to the mobile app at this point or at any point, tap the "Mobile" button at the top right of the screen.
+
+![](img/image76.png)
+
+![](img/image77.png)
+
 ## Sort Cases
 
 On the case list, tap the "Order by" bar at the top of the screen. Then select a new rule for ordering your cases. Your cases will now appear sorted according to this rule.
