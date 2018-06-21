@@ -4,11 +4,11 @@
     "plugins" : [ "-mathjax", "-mixpanel","-search", "edit-link", "downloadpdf"],
     "pluginsConfig": {
             "edit-link": {
-                "base": "https://github.com/primeroIMS/PrimeroCPIMSUserGuide/edit/master",
+                "base": "https://github.com/primeroIMS/PrimeroMobile/edit/master",
                 "label": "Edit This Page"
             },
             "downloadpdf": {
-                 "base": "https://www.gitbook.com/download/pdf/book/primero/primero-child-protection-ims-user-guide",
+                 "base": "https://www.gitbook.com/download/pdf/book/primero/primero-mobile",
                  "label": "Download PDF",
                  "multilingual": false
             }
