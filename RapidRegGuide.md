@@ -67,10 +67,11 @@ The application will automatically redirect to main menu after login.
 
 ## Case List
 
-Select "Cases" on main menu, then the case list will be displayed (there won’t be any
-existing records if it’s a first-time login).
+Select "Cases" on main menu, then the case list will be displayed (there won’t be any existing records if it’s a first-time login).
 
 ![](img/image13.png)
+
+You will notice that some cases have small, red bell icons next to them. These are cases with new notes from managers. We will learn more about these notes in the View Case section.
 
 ## Create Case
 
@@ -132,17 +133,7 @@ On the case list page, tap on any row to view the details of that case.
 
 ![](img/image22.png)
 
-## Edit Case
-
-When viewing a case, you can begin editing it by tapping the pencil icon at the bottom right of the screen.
-
-![](img/image4.png)
-
-Once you have added information, you can save your changes by tapping the "Save" button at the top right of the screen.
-
-![](img/image61.png)
-
-## Switching Between the Short Form and the Full Form
+### Switching Between the Short Form and the Full Form
 
 When viewing, creating, or editing a case, you will, by default, see the "Short Form," which is a limited set of fields which have been set in your configuration to appear here. To see and / or edit more fields, you can see the "Full Form" by scrolling to the bottom of the page and tapping the "Show more details" button.
 
@@ -155,6 +146,30 @@ You will now see the full set of forms and fields which have been set to appear 
 To move back to the short form, tap the "Show short form" button.
 
 ![](img/image33.png)
+
+### Viewing Manager Notes
+
+You may notice that, when viewing the full form set, one of the form headers (for the "Notes" or "Other Comments" form) at the top of your screen has a small bell-shaped icon on it. This indicates that your manager has recently added a note to your case.
+
+![](img/image78.png)
+
+You can swipe over to this form or click on the form header to see the information in this form. All the notes on your case will here. Notes are sorted in chronological order, with the newest note at the top. To see the newest note (at the top), click on it, and the note will expand to show all of the information about the note, including subject, date added, and full text.
+
+![](img/image79.png)
+
+![](img/image80.png)
+
+For more information about how managers can add notes to a case through the web application, please see the **Primero CPIMS User Guide**.
+
+## Edit Case
+
+When viewing a case, you can begin editing it by tapping the pencil icon at the bottom right of the screen.
+
+![](img/image4.png)
+
+Once you have added information, you can save your changes by tapping the "Save" button at the top right of the screen.
+
+![](img/image61.png)
 
 ## Adding an Incident to a Case
 

@@ -22,9 +22,11 @@
 
     *  [*View Case*](RapidRegGuide.md#view-case)
 
-    *  [*Edit Case*](RapidRegGuide.md#edit-case)
+        *  [*Switching Between the Short Form and the Full Form*](RapidRegGuide.md#switching-between-the-short-form-and-the-full-form)
 
-    *  [*Switching Between the Short Form and the Full Form*](RapidRegGuide.md#switching-between-the-short-form-and-the-full-form)
+        *  [*Viewing Manager Notes*](RapidRegGuide.md#viewing-manager-notes)
+
+    *  [*Edit Case*](RapidRegGuide.md#edit-case)
 
     *  [*Adding an Incident to a Case*](RapidRegGuide.md#adding-an-incident-to-a-case)
 
