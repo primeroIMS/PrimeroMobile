@@ -330,7 +330,7 @@ If you tap on the Sync button, a popup will appear with sync progress.
 
 ![](img/image49.png)
 
-After records in mobile app are synced to web app, RapidReg will automatically pull records from the web which are marked for mobile.
+After records in mobile app are synced to web app, Primero will automatically pull records from the web which are marked for mobile.
 
 ![](img/image50.png)
 
@@ -338,17 +338,17 @@ Once the sync has completed, the information on the sync page will update, and t
 
 # Uninstalling the App
 
-In times of emergency, users can uninstall the RapidReg app through one of two methods. Please note that, by uninstalling the app, you will also be deleting all of the record information stored in the app.
+In times of emergency, users can uninstall the Priemro app through one of two methods. Please note that, by uninstalling the app, you will also be deleting all of the record information stored in the app.
 
 ## Drag and Drop
 
-The first method is to tap and hold down on the icon for the RapidReg app. A "App info" link will appear above the icon.
+The first method is to tap and hold down on the icon for the Primero app. A "App info" link will appear above the icon.
 
 ![](img/image51.png)
 
 ![](img/image52.png)
 
-Still holding your finger down, drag the app until you see a trash can icon with the label "Uninstall." Drag the RapidReg icon over this uninstall icon and then let go. You will see a confirmation modal asking you to confirm that you want to uninstall the app. Tap "OK."
+Still holding your finger down, drag the app until you see a trash can icon with the label "Uninstall." Drag the Primero icon over this uninstall icon and then let go. You will see a confirmation modal asking you to confirm that you want to uninstall the app. Tap "OK."
 
 ![](img/image53.png)
 
@@ -364,7 +364,7 @@ The second method requires that you navigate to the Settings app on your device.
 
 ![](img/image57.png)
 
-You should now see a row for the RapidReg app. Tap this row.
+You should now see a row for the Primero app. Tap this row.
 
 ![](img/image58.png)
 
