@@ -1,5 +1,5 @@
 {
-    "title" : "Primero Mobile Users Guide",
+    "title" : "Primero Mobile User Guide",
     "github" : false,
     "plugins" : [ "-mathjax", "-mixpanel","-search", "edit-link", "downloadpdf"],
     "pluginsConfig": {

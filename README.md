@@ -1,5 +1,5 @@
 
-# RapidReg User Guide [Draft]
+# Primero Mobile User Guide [Draft]
 
 June 19, 2018
 

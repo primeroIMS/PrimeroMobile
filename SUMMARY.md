@@ -1,53 +1,53 @@
 # Summary
 
-*  [*Major Features*](RapidRegGuide.md#major-features)
+*  [*Major Features*](PrimeroMobileGuide.md#major-features)
 
-    *  [*Icons used*](RapidRegGuide.md#icons-used)
+    *  [*Icons used*](PrimeroMobileGuide.md#icons-used)
 
-*  [*Login*](RapidRegGuide.md#login)
+*  [*Login*](PrimeroMobileGuide.md#login)
 
-    *  [*Login Page*](RapidRegGuide.md#login-page)
+    *  [*Login Page*](PrimeroMobileGuide.md#login-page)
 
-    *  [*Main Menu*](RapidRegGuide.md#main-menu)
+    *  [*Main Menu*](PrimeroMobileGuide.md#main-menu)
 
-*  [*Cases*](RapidRegGuide.md#case)
+*  [*Cases*](PrimeroMobileGuide.md#case)
 
-    *  [*Case List*](RapidRegGuide.md#case-list)
+    *  [*Case List*](PrimeroMobileGuide.md#case-list)
 
-    *  [*Create Case*](RapidRegGuide.md#create-case)
+    *  [*Create Case*](PrimeroMobileGuide.md#create-case)
 
-        *  [*Adding Photos*](RapidRegGuide.md#adding-photos)
+        *  [*Adding Photos*](PrimeroMobileGuide.md#adding-photos)
 
-        *  [*Adding Audio*](RapidRegGuide.md#adding-audio)
+        *  [*Adding Audio*](PrimeroMobileGuide.md#adding-audio)
 
-    *  [*View Case*](RapidRegGuide.md#view-case)
+    *  [*View Case*](PrimeroMobileGuide.md#view-case)
 
-        *  [*Switching Between the Short Form and the Full Form*](RapidRegGuide.md#switching-between-the-short-form-and-the-full-form)
+        *  [*Switching Between the Short Form and the Full Form*](PrimeroMobileGuide.md#switching-between-the-short-form-and-the-full-form)
 
-        *  [*Viewing Manager Notes*](RapidRegGuide.md#viewing-manager-notes)
+        *  [*Viewing Manager Notes*](PrimeroMobileGuide.md#viewing-manager-notes)
 
-    *  [*Edit Case*](RapidRegGuide.md#edit-case)
+    *  [*Edit Case*](PrimeroMobileGuide.md#edit-case)
 
-    *  [*Adding an Incident to a Case*](RapidRegGuide.md#adding-an-incident-to-a-case)
+    *  [*Adding an Incident to a Case*](PrimeroMobileGuide.md#adding-an-incident-to-a-case)
 
-    *  [*Subforms*](RapidRegGuide.md#subforms)
+    *  [*Subforms*](PrimeroMobileGuide.md#subforms)
 
-    *  [*Delete Cases From Your Device*](RapidRegGuide.md#delete-cases-from-your-device)
+    *  [*Delete Cases From Your Device*](PrimeroMobileGuide.md#delete-cases-from-your-device)
 
-    *  [*Search Cases*](RapidRegGuide.md#search-cases)
+    *  [*Search Cases*](PrimeroMobileGuide.md#search-cases)
 
-    *  [*Search Other Users' Cases on Web*](RapidRegGuide.md#search-other-users-cases-on-web)
+    *  [*Search Other Users' Cases on Web*](PrimeroMobileGuide.md#search-other-users-cases-on-web)
 
-    *  [*Sort Cases*](RapidRegGuide.md#sort-cases)
+    *  [*Sort Cases*](PrimeroMobileGuide.md#sort-cases)
 
-*  [*Incidents*](RapidRegGuide.md#incidents)
+*  [*Incidents*](PrimeroMobileGuide.md#incidents)
 
-*  [*Tracing Requests*](RapidRegGuide.md#tracing-requests)
+*  [*Tracing Requests*](PrimeroMobileGuide.md#tracing-requests)
 
-*  [*Synchronization*](RapidRegGuide.md#synchronization)
+*  [*Synchronization*](PrimeroMobileGuide.md#synchronization)
 
-*  [*Uninstalling the App*](RapidRegGuide.md#uninstalling-the-app)
+*  [*Uninstalling the App*](PrimeroMobileGuide.md#uninstalling-the-app)
 
-    *  [*Drag and Drop*](RapidRegGuide.md#drag-and-drop)
+    *  [*Drag and Drop*](PrimeroMobileGuide.md#drag-and-drop)
 
-    *  [*Using Settings*](RapidRegGuide.md#using-settings)
+    *  [*Using Settings*](PrimeroMobileGuide.md#using-settings)
