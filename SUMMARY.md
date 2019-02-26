@@ -46,6 +46,8 @@
 
 *  [*Synchronization*](PrimeroMobileGuide.md#synchronization)
 
+    *  [*Selective Syncing*](PrimeroMobileGuide.md#selective-syncing)
+
 *  [*Uninstalling the App*](PrimeroMobileGuide.md#uninstalling-the-app)
 
     *  [*Drag and Drop*](PrimeroMobileGuide.md#drag-and-drop)
