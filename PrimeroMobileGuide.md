@@ -336,6 +336,16 @@ After records in mobile app are synced to web app, Primero will automatically pu
 
 Once the sync has completed, the information on the sync page will update, and the synced records will appear in their respective record lists.
 
+## Selective Syncing
+
+Some subforms perform "selective syncing." This means:
+ * Subform entries added to the case from the web app will not appear on your mobile device.
+ * Subform entries you add to the case on the mobile device will sync up to the web app once you sync, and will no longer appear on the mobile app.
+
+The below diagram illustrates how this process works in a system where the "Family Details" form syncs selectively.
+
+![](img/selective-syncing-diagram.png)
+
 # Uninstalling the App
 
 In times of emergency, users can uninstall the Priemro app through one of two methods. Please note that, by uninstalling the app, you will also be deleting all of the record information stored in the app.
